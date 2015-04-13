@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.gary.qrbuildingversionone.AbbeyWindow"
+    android:background="#ffcbd7ff">
+
+    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/abbeyimageView"
+        android:layout_below="@+id/textView2"
+        android:src="@drawable/abbey"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:scaleType="fitStart" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Houses: A Level - Accounting, Art, Biology, Business Studies, Chemistry, Computer Science, English Language, English Literature, Further Maths, Geography, History, History of Art, Law, Maths, P.E, Photography, Physics, Psychology, Religious Studies and Sociology. "
+        android:id="@+id/abbeytextHouses"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="158dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/abbeytextRoom"
+        android:textSize="13dp"
+        android:layout_alignTop="@+id/abbeytextHouses"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="84dp"
+        android:text="@string/abbey_room" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/abbey_other_info"
+        android:id="@+id/abbeytextAddifo"
+        android:singleLine="true"
+        android:linksClickable="false"
+        android:layout_below="@+id/abbeytextRoom"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Abbey Building"
+        android:id="@+id/LargeAbbey"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/abbeyimageView"
+        android:layout_alignEnd="@+id/abbeyimageView"
+        android:password="false" />
+
+</RelativeLayout>

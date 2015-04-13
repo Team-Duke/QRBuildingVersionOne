@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">QRBuildingVersionOne</string>
+
+    <string name="hello_world">QRBuilding</string>
+    <string name="abbey_room">Building Floor Room \n +
+                    A        1      01   -     A         1     14  \n +
+                    A        2      01   -     A         2     14  \n +
+                    A        3      01   -     A         3     14  \n +
+                    A        4      01   -     A         4     14;</string>
+    <string name="abbey_other_info">
+        Eating Area  Yes, Blackfriars Restaurant. \n
+        Study Area  N/A </string>
+    <string name="bishops_info">Houses:
+
+Electrical, Mechanical, Manufacturing, Engineering and Computing.
+
+\n
+Building Floor Room -
+\n
+B	   0      02     -    B        0      13
+\n
+B           1      00    -    B        1       42
+\n
+Lecturers:
+Stephen Smith, John Rogers, Nick McDavid, Murray Martin, Barry Smith
+Daniel Rogers, Jeremy Spencer and Obinna Ajuruchi.
+
+Martin Cordwell, Kev Gibbon, Kevin Hare, Edward Hodge, David Jennings, Brian Lawson, Richard Long, Stephen Lowe, David Gregory Andrew Bellas and David Thompson
+\n
+Eating Area:
+\n
+Yes, Bishops Cafe.
+\n
+Study Area:
+N/A</string>
+
+    <string name="cathedral_info">Houses: A Levels, International, Access to University, Business Skills, Travel and Tourism and the IT Help Desk.
+
+
+
+\n
+Building Floor Room
+\n
+    C       0       01   -      C       0      51
+\n
+    C       1       03   -      C       1      07
+\n
+    C       1       08   -      C       1      20
+\n
+    C       2       01   -      C       2      04
+\n
+    C       3       01   -      C       3      03
+\n
+
+Lecturers
+
+Allan Johnson, Jane Woods, Terry Organ, Christine Cooke, Michael Cowling, Adam Jones, Wendy Kempster, Matthew Noakes, Maxine Osborne, Richard Thomas, Rick Courtney, Robin Sission, Dominic Docherty, Peter Goddard, Jennie Mccann, Rachel Tottingham, Lynn Train-Brown, Bob Bradford, Ma Brown, Emma, Innesbeer, John Tomlinson.
+
+Eating Area
+
+N/A
+
+Study Area
+
+N/A
+</string>
+
+    <string name="deans_info">Houses:
+\n
+        Sports Studies, Gym and Restaurant.
+
+\n
+
+
+Lecturers
+\n
+Paul Campbell, Rebecca Hamnett, David Horsfeild, Steven Horsfeild, Michelle McGill, Stuart Reddington and Alex Sheldon.
+\n
+Eating Area
+\n
+Yes, Deans Sports and Leisure Restaurant.
+\n
+Study Area
+\n
+N/A
+</string>
+
+    <string name="knights_info">Houses:
+\n
+Performing Arts, Electrical and Gas Testing, Plastering.
+\n
+Room Numbers
+\n
+Building Floor Room
+\n
+    K                01   -     K                43
+\n
+Lecturers
+\n
+John Cotton, Andrew Skeet.
+Lisa Cowley, Jane Hewitt, Stefanie Bennett, David Mallett, Jennifer Matthews, Howell Thomas
+\n
+Eating Area:
+\n
+N/A
+\n
+Study Area:
+N/A
+</string>
+
+    <string name="gibney_info">Houses: Hair and Beauty.
+
+
+
+\n
+
+Building Floor Room
+\n
+    G        0     01    -      G       0      03
+\n
+    G        0     04    -      G       0      13
+\n
+    G        1     01    -      G       1      19
+\n
+Lecturers
+\n
+Marie Osbourne, Lesley Elliott
+\n
+Eating Area
+\n
+N/A
+\n
+Study Area
+\n
+N/A
+</string>
+
+    <string name="temple_info">Houses: Brickwork, Carpentry, Joinery, Painting and decorating, Plumbing and Gas and Technical Studies.
+\n
+Lecturers
+\n
+Terry Coatsworth, Russ Tinker, Paul Barnes, Dale Brader, Michael Dews, Robert Laskey, Graham Stanney, Steve Turner, Ashley ard, Simon Quincey, Richard Preece, Paul Gregory, Steve Turner, Paul Wilcockson, Robert Jones, Peter Watson, Rob Griffiths, Ian West.
+\n
+Eating Area
+\n
+N/A
+\n
+Study Area
+\n
+N/A
+</string>
+
+    <string name="monks_info"></string>
+
+    <string name="title_activity_deans_window">DeansWindow</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gibney_window">GibneyWindow</string>
+    <string name="title_activity_knights_window">KnightsWindow</string>
+    <string name="title_activity_monks_window">MonksWindow</string>
+    <string name="title_activity_sessions_window">SessionsWindow</string>
+    <string name="title_activity_temple_window">TempleWindow</string>
+
+
+
+    </resources>
